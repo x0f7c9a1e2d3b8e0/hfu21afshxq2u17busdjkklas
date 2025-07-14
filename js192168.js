@@ -1,1 +1,1 @@
-document.Write("cHJpbnQoImxvbCIp")
+document.write("cHJpbnQoImxvbCIp")
